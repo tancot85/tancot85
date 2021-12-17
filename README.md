@@ -10,7 +10,7 @@
 - 🏦 I'm a Computer Enthusiast obsessed with any new hardware and Games
 - 💻 I use daily **.py**, **.dart**
 - 🎮 I am currently playing **Valorant** 
-- 💬 Talk to me about computers, python (both of these are not any kind of insect or animals), games, startups
+- 💬 Talk to me about computers, python (not the snake), games, startups
 - 👯 We can connect to play some games of Valorant 🕹️
 
 
