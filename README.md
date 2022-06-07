@@ -10,7 +10,7 @@
 <img src="https://badges.pufler.dev/commits/monthly/tancot85" />
 </p>
 
-###<p align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> </p>
+<p align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px" height="45"> </p>
 About Me:
 - 🏦 I'm a Computer Enthusiast obsessed with any new hardware and Games
 - 💻 I use daily **.py**, **.dart**
